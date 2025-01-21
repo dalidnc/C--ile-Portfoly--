@@ -1,0 +1,78 @@
+﻿@model List<AcunmedyaAkademiPortfolio.Models.TblExperience>
+<section id="resume" class="resume section">
+
+    <!-- Section Title -->
+    <div class="container section-title" data-aos="fade-up">
+        <h2>Öz Geçmiş(CV)</h2>
+       
+    </div><!-- End Section Title -->
+
+    <div class="container">
+
+        <div class="row">
+
+            <div class="col-lg-6" data-aos="fade-up" data-aos-delay="100">
+                <h3 class="resume-title">Özet</h3>
+
+                <div class="resume-item pb-0">
+                    <h4>Dursunali Dinç</h4>
+                    <p><em>3+ yıllık deneyime sahip, yenilikçi ve çözüm odaklı bir elektronik mühendisiyim. Dijital ve analog sistem tasarımı, devre kartı (PCB) tasarımı, mikrodenetleyici programlama ve elektronik ürün geliştirme konularında güçlü bir bilgi birikimine sahibim. Sonuç odaklı bir yaklaşım benimseyerek, projelerin her aşamasında kaliteli ve zamanında teslimat sağlama konusunda yetkinim.</em></p>
+                    <ul>
+                        <li>Istanbul,Turkey</li>
+                        <li>(551) 150 7344</li>
+                        <li>d.ali78dinc@gmail.com</li>
+                    </ul>
+                </div><!-- Edn Resume Item -->
+
+                <h3 class="resume-title">Eğitim</h3>
+                <div class="resume-item">
+                    <h4>Elektrik &amp; Elektronik Mühendisliği</h4>
+                    <h5>2021-2025</h5>
+                    <p><em>Bolu Abant Izzet Baysal Universitesi</em></p>
+
+                </div><!-- Edn Resume Item -->
+
+                <div class="resume-item">
+                    <h4>WEB Tasarım Programlama Eğitimi</h4>
+                    <h5>2024 - 2025</h5>
+                    <p><em>AcunMedya Akademi-Nişantaşı Universitesi</em></p>
+
+                </div><!-- Edn Resume Item -->
+
+            </div>
+
+            <div class="col-lg-6" data-aos="fade-up" data-aos-delay="200">
+                <h3 class="resume-title">Profosyenel Tecrübe</h3>
+                <div class="resume-item">
+                    @foreach (var item in Model.Take(1))
+                    {
+                        <h4>@item.Company</h4>
+                        <h5>@item.StartYear-Devam Ediyor</h5>
+                        <ul>
+                            <li><i class="bi bi-pencil"></i> @item.Description</li>
+                        </ul>
+
+                    }
+                </div><!-- Edn Resume Item -->
+
+
+                <div class="resume-item">
+                    @foreach (var item in Model.Skip(1))
+                    {
+                        <h4>@item.Company</h4>
+                        <h5>@item.StartYear - @item.EndYear</h5>
+                       
+                        <ul>
+                            <li><i class="bi bi-pencil"></i> @item.Description</li>
+                        </ul>
+                    }
+
+                </div><!-- Edn Resume Item -->
+
+            </div>
+
+        </div>
+
+    </div>
+
+</section>

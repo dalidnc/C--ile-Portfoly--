@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Dursun Ali\\source\\repos\\AcunmedyaAkademiPortfolio\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1F1EC0CC-48BF-4030-9146-AC10D1C33C92}|AcunmedyaAkademiPortfolio\\AcunmedyaAkademiPortfolio.csproj|c:\\users\\dursun ali\\source\\repos\\acunmedyaakademiportfolio\\acunmedyaakademiportfolio\\views\\category\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1F1EC0CC-48BF-4030-9146-AC10D1C33C92}|AcunmedyaAkademiPortfolio\\AcunmedyaAkademiPortfolio.csproj|solutionrelative:acunmedyaakademiportfolio\\views\\category\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F1EC0CC-48BF-4030-9146-AC10D1C33C92}|AcunmedyaAkademiPortfolio\\AcunmedyaAkademiPortfolio.csproj|c:\\users\\dursun ali\\source\\repos\\acunmedyaakademiportfolio\\acunmedyaakademiportfolio\\views\\project\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1F1EC0CC-48BF-4030-9146-AC10D1C33C92}|AcunmedyaAkademiPortfolio\\AcunmedyaAkademiPortfolio.csproj|solutionrelative:acunmedyaakademiportfolio\\views\\project\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F1EC0CC-48BF-4030-9146-AC10D1C33C92}|AcunmedyaAkademiPortfolio\\AcunmedyaAkademiPortfolio.csproj|c:\\users\\dursun ali\\source\\repos\\acunmedyaakademiportfolio\\acunmedyaakademiportfolio\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1F1EC0CC-48BF-4030-9146-AC10D1C33C92}|AcunmedyaAkademiPortfolio\\AcunmedyaAkademiPortfolio.csproj|solutionrelative:acunmedyaakademiportfolio\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F1EC0CC-48BF-4030-9146-AC10D1C33C92}|AcunmedyaAkademiPortfolio\\AcunmedyaAkademiPortfolio.csproj|c:\\users\\dursun ali\\source\\repos\\acunmedyaakademiportfolio\\acunmedyaakademiportfolio\\controllers\\projectcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F1EC0CC-48BF-4030-9146-AC10D1C33C92}|AcunmedyaAkademiPortfolio\\AcunmedyaAkademiPortfolio.csproj|solutionrelative:acunmedyaakademiportfolio\\controllers\\projectcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F1EC0CC-48BF-4030-9146-AC10D1C33C92}|AcunmedyaAkademiPortfolio\\AcunmedyaAkademiPortfolio.csproj|c:\\users\\dursun ali\\source\\repos\\acunmedyaakademiportfolio\\acunmedyaakademiportfolio\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1F1EC0CC-48BF-4030-9146-AC10D1C33C92}|AcunmedyaAkademiPortfolio\\AcunmedyaAkademiPortfolio.csproj|solutionrelative:acunmedyaakademiportfolio\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F1EC0CC-48BF-4030-9146-AC10D1C33C92}|AcunmedyaAkademiPortfolio\\AcunmedyaAkademiPortfolio.csproj|c:\\users\\dursun ali\\source\\repos\\acunmedyaakademiportfolio\\acunmedyaakademiportfolio\\views\\default\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1F1EC0CC-48BF-4030-9146-AC10D1C33C92}|AcunmedyaAkademiPortfolio\\AcunmedyaAkademiPortfolio.csproj|solutionrelative:acunmedyaakademiportfolio\\views\\default\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Dursun Ali\\source\\repos\\AcunmedyaAkademiPortfolio\\AcunmedyaAkademiPortfolio\\Views\\Category\\Index.cshtml",
+              "RelativeDocumentMoniker": "AcunmedyaAkademiPortfolio\\Views\\Category\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Dursun Ali\\source\\repos\\AcunmedyaAkademiPortfolio\\AcunmedyaAkademiPortfolio\\Views\\Category\\Index.cshtml",
+              "RelativeToolTip": "AcunmedyaAkademiPortfolio\\Views\\Category\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-21T11:18:15.049Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Dursun Ali\\source\\repos\\AcunmedyaAkademiPortfolio\\AcunmedyaAkademiPortfolio\\Views\\Project\\Index.cshtml",
+              "RelativeDocumentMoniker": "AcunmedyaAkademiPortfolio\\Views\\Project\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Dursun Ali\\source\\repos\\AcunmedyaAkademiPortfolio\\AcunmedyaAkademiPortfolio\\Views\\Project\\Index.cshtml",
+              "RelativeToolTip": "AcunmedyaAkademiPortfolio\\Views\\Project\\Index.cshtml",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAAA0AAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-21T11:18:00.697Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Dursun Ali\\source\\repos\\AcunmedyaAkademiPortfolio\\AcunmedyaAkademiPortfolio\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "AcunmedyaAkademiPortfolio\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Dursun Ali\\source\\repos\\AcunmedyaAkademiPortfolio\\AcunmedyaAkademiPortfolio\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "AcunmedyaAkademiPortfolio\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-21T11:17:56.725Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ProjectController.cs",
+              "DocumentMoniker": "C:\\Users\\Dursun Ali\\source\\repos\\AcunmedyaAkademiPortfolio\\AcunmedyaAkademiPortfolio\\Controllers\\ProjectController.cs",
+              "RelativeDocumentMoniker": "AcunmedyaAkademiPortfolio\\Controllers\\ProjectController.cs",
+              "ToolTip": "C:\\Users\\Dursun Ali\\source\\repos\\AcunmedyaAkademiPortfolio\\AcunmedyaAkademiPortfolio\\Controllers\\ProjectController.cs",
+              "RelativeToolTip": "AcunmedyaAkademiPortfolio\\Controllers\\ProjectController.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAYwCsAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-21T11:17:34.314Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Dursun Ali\\source\\repos\\AcunmedyaAkademiPortfolio\\AcunmedyaAkademiPortfolio\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "AcunmedyaAkademiPortfolio\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Dursun Ali\\source\\repos\\AcunmedyaAkademiPortfolio\\AcunmedyaAkademiPortfolio\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "AcunmedyaAkademiPortfolio\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAswBMAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-21T11:13:32.808Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Dursun Ali\\source\\repos\\AcunmedyaAkademiPortfolio\\AcunmedyaAkademiPortfolio\\Views\\Default\\Index.cshtml",
+              "RelativeDocumentMoniker": "AcunmedyaAkademiPortfolio\\Views\\Default\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Dursun Ali\\source\\repos\\AcunmedyaAkademiPortfolio\\AcunmedyaAkademiPortfolio\\Views\\Default\\Index.cshtml",
+              "RelativeToolTip": "AcunmedyaAkademiPortfolio\\Views\\Default\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-21T11:13:03.866Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
